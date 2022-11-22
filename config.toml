@@ -1,3 +1,38 @@
 baseURL = 'https://linklog.rmhogervorst.nl/'
-languageCode = 'en-us'
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+theme = "cupper-hugo-theme"
 title = 'An overview of links'
+
+[params]
+    description = "A link blog or linklog that enables me to keep track of similar things"
+    dateFormat= "2006-01-02 Monday"
+    katex = true
+    hideHeaderLinks = false
+    search = true
+    showThemeSwitcher = true
+    defaultDarkTheme = false
+    moveFooterToHeader = false
+
+[taxonomies]
+   tag = 'tags'
+   linktype = 'linktypes'
+   difficulty = 'difficulties'
+
+[permalinks]
+  post = "/:filename/"
+
+[outputs]
+   home = [ "HTML", "JSON" ]
+
+[[menu.nav]]
+    name = "home"
+    url = "/post/"
+    weight = 1
+[[menu.nav]]
+   name = "tags"
+    url = "/tags/"
+    weight = 4
+[[menu.nav]]
+    name = "mastodon"
+    url = "https://mastodon.world/@rmhogervorst"
