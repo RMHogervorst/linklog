@@ -5,7 +5,7 @@ theme = "cupper-hugo-theme"
 title = 'An overview of links'
 
 [params]
-    description = "A link blog or linklog that enables me to keep track of similar things"
+    description = "A link blog or linklog that enables me to keep track of resources on the web."
     dateFormat= "2006-01-02 Monday"
     katex = true
     hideHeaderLinks = false
@@ -36,3 +36,6 @@ title = 'An overview of links'
 [[menu.nav]]
     name = "mastodon"
     url = "https://mastodon.world/@rmhogervorst"
+[[menu.nav]]
+    name = "blog"
+    url = "https://blog.rmhogervorst.nl"
