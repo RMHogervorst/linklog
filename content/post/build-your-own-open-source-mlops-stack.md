@@ -42,3 +42,6 @@ Runtime engine seems a bit overkill for most usecases but I like the ability to 
 With mlops being very vendor heavy it is nice to see open source alternatives. 
 
 Fundamentaly the tools will not make your machine learning projects a success, it's people, mindsets and culture that do that. But this is a very useful tool!
+
+Look at what kind of images it creates:
+![diagram with data versioning, code versioning, orchestration, monitoring, serving etc.](/img/make_os_mlops_stack.png)

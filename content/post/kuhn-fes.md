@@ -1,9 +1,9 @@
 ---
 # title for above
-title: "Kuhn Fes"
+title: "Kuhn FES"
 date: 2022-11-23T18:18:15+01:00
 draft: false
-rating: 1
+rating: 5
 identifyer:
   - url: "https://bookdown.org/max/FES/"
   - isbn: 9781138079229
