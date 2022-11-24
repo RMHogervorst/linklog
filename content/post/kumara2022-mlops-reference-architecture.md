@@ -32,7 +32,7 @@ tags:
 ---
 
 ## Kumara2022 Mlops Reference Architecture
-Kumara et al. looked into the 'grey' literature what companies are saying they are using right now. 
+[Kumara et al.](https://www.techrxiv.org/articles/preprint/Requirements_and_Reference_Architecture_for_MLOps_Insights_from_Industry/21397413) looked into the 'grey' literature what companies are saying they are using right now. 
 
 
 Abstract:
