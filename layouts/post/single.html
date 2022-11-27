@@ -33,16 +33,29 @@
                 <use href="#tag"></use>
               </svg>
               {{ $href := print ("tags/" | relLangURL) (. | urlize) "/" }}
-              <a href="{{ $href }}">{{ . }}</a>
+              <a href="{{ $href }}"><i>{{ . }}</i></a>
             </li>
           {{ end }}
         </ul>
       </div>
     {{ end }}
-
+    <div class="tags">
+    {{ with .Params.authors }}
+      <ul> by 
+      {{ range .}}
+        <li>
+          {{ $href := print ("authors/" | relLangURL) (. | urlize) "/" }}
+              <a href="{{ $href }}">{{ . }}</a>
+        </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
     {{ partial "toc.html" . }}
 
     {{ .Content }}
+
+    <!-- some logic with identifyer maybe a partial?-->
 
     {{ with .Params.linktypes }}
       <div class="tags">
@@ -61,5 +74,4 @@
       </div>
     {{ end }}
   </main>
-  {{ partial "disqus.html" . }}
 {{ end }}

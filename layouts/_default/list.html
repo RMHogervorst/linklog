@@ -26,11 +26,11 @@
         </a>
       
       {{ with .Params.linktypes }}
-      (<i>
+      <i>(
       {{ range . }}
         {{ . }}
         {{ end }}
-      </i>)
+      )</i>
         {{ end }}
         {{ with .Params.rating }}
         {{ "⭐" | strings.Repeat . }}

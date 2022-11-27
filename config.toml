@@ -18,6 +18,7 @@ title = 'An overview of links'
    tag = 'tags'
    linktype = 'linktypes'
    difficulty = 'difficulties'
+   author = 'authors'
 
 [permalinks]
   post = "/:filename/"
@@ -30,12 +31,18 @@ title = 'An overview of links'
     url = "/post/"
     weight = 1
 [[menu.nav]]
-   name = "tags"
+    name = "tags"
     url = "/tags/"
     weight = 4
 [[menu.nav]]
+    name = "RSS"
+    url = "/post/index.xml"
+    weigth = 4
+[[menu.nav]]
     name = "mastodon"
     url = "https://mastodon.world/@rmhogervorst"
+    weigth = 2
 [[menu.nav]]
     name = "blog"
     url = "https://blog.rmhogervorst.nl"
+    weigth = 2
