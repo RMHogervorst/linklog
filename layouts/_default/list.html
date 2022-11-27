@@ -27,8 +27,10 @@
       
       {{ with .Params.linktypes }}
       <i>(
-      {{ range . }}
-        {{ . }}
+        {{- range $k, $v := . }}
+      {{- if $k }}, {{ end }}
+      {{ $href := print ("linktypes/" | relLangURL) (. | urlize) "/" }}
+      <a href="{{ $href }}" title="all links of linktype {{ . }}">{{ . }}</a>
         {{ end }}
       )</i>
         {{ end }}
@@ -36,6 +38,16 @@
         {{ "⭐" | strings.Repeat . }}
         {{ end }}
       </h2>
+      {{ with .Params.authors}}
+      <div class="tags">
+      by  
+      {{- range $k, $v := . }}
+      {{- if $k }}, {{ end }}
+      {{ $href := print ("authors/" | relLangURL) (. | urlize) "/" }}
+      <a href="{{ $href }}" title="go to the author overview page of {{ . }}">{{ . }}</a>
+      {{- end }}
+    </div>
+      {{ end }}
     </li>
     {{ end }}
   </ul>
