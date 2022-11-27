@@ -6,7 +6,15 @@ rating: 4
 identifyer: 
     - url: https://research.google/pubs/pub43146/
 link_title: "Machine Learning: The High Interest Credit Card of Technical Debt"
-authors: "D. Sculley, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young"
+authors: 
+    - D. Sculley
+    - Gary Holt
+    - Daniel Golovin
+    - Eugene Davydov
+    - Todd Phillips
+    - Dietmar Ebner
+    - Vinay Chaudhary
+    - Michael Young
 difficulties:
   - advanced
 linktypes:
