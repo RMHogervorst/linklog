@@ -28,7 +28,7 @@ tags:
     - ""
 ---
 
-## "{{ replace .Name "-" " " | title }}"
+## {{ replace .Name "-" " " | title }}
 Is a ... and can be found here
 
 
