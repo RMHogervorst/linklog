@@ -5,7 +5,7 @@ date: 2022-11-23T18:00:16+01:00
 draft: false
 rating: 3
 identifyer:
-  - url:https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection/blob/master/A%20Short%20Guide%20for%20Feature%20Engineering%20and%20Feature%20Selection.md
+  - url: https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection/blob/master/A%20Short%20Guide%20for%20Feature%20Engineering%20and%20Feature%20Selection.md
 # full title of resource
 link_title: "Feature engineering and selection a short guide"
 authors: 

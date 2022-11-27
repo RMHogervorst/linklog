@@ -6,6 +6,10 @@ rating: 3
 identifyer:
     ISBN: 978-1-098-11578-4
 link_title: "Machine Learning Design Patterns"
+authors:
+    - Valliappa Lakshmanan
+    - Sara Robinson
+    - Michael Munn
 difficulties:
   - intermediate
 linktypes:
