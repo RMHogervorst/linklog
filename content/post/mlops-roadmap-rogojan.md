@@ -7,6 +7,8 @@ identifyer:
     - url: https://medium.com/coriers/mlops-and-machine-learning-roadmap-95efc59927a2
     - cleanurl: https://scribe.citizen4.eu/coriers/mlops-and-machine-learning-roadmap-95efc59927a2
 link_title: "A 16–20 Week Roadmap To Review Machine Learning And Learn MLOps"
+authors:
+  - Ben Rogojan
 difficulties:
   - beginner
 linktypes:

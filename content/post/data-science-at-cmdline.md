@@ -7,7 +7,9 @@ identifyer:
     - url: https://datascienceatthecommandline.com/2e/
     - isbn: 9781492087915
     - Open Library: OL33902186M
-link_title: []
+link_title: "Data Science at the Commandline"
+authors: 
+    - "Jeroen Janssens"
 difficulties:
   - intermediate
 linktypes:
