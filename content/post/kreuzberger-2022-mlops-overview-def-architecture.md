@@ -16,8 +16,6 @@ authors:
   - Niklas Kühl
   - Sebastian Hirschl
 difficulties:
-  - beginner
-  - intermediate
   - advanced
 linktypes:
     - paper

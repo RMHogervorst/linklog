@@ -46,6 +46,8 @@ Damn:
 
 ![layered reference architecture image from paper](/img/kumara_2022_ref_architecture_mlops.png)
 
+![and an overview of different pipelines](kumara2022_pipelines.png)
+
 ## what do I think about it
 This is very thorough and a bit too much for me. I don't see people setting this up in one go. 
 I'd like a minimal version of this. 

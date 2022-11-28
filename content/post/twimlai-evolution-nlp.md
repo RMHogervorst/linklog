@@ -6,8 +6,15 @@ draft: false
 rating: 4
 identifyer:
   - url: https://twimlai.com/podcast/twimlai/the-evolution-of-the-nlp-landscape-with-oren-etzioni/
-  - audio: "https://chrt.fm/track/4D4ED/traffic.megaphone.fm/MLN7359885583.mp3?updated=1667853796"
+RSS:
+  - url: "https://chrt.fm/track/4D4ED/traffic.megaphone.fm/MLN7359885583.mp3?updated=1667853796"
+  - length: 0
+  - duration: 3195
+  - image: "https://megaphone.imgix.net/podcasts/3a5fb4c4-5edb-11ed-b887-f7b803cc0320/image/1bc32e.jpg?ixlib=rails-2.1.2&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  - title: "The Evolution of the NLP Landscape with Oren Etzioni - #598"
+  - link: "https://twimlai.com/go/598"
 # full title of resource
+pubDate: "Mon, 07 Nov 2022 20:37:54 -0000"
 link_title:
   - "The Evolution of the NLP Landscape with Oren Etzioni"
 authors:
@@ -26,8 +33,7 @@ tags:
 Is a conversation between Oren Etzioni and John Bohannon about NLP and can be found [here](https://twimlai.com/podcast/twimlai/the-evolution-of-the-nlp-landscape-with-oren-etzioni/).
 
 
-EPISODE 598
-November 7, 2022
+EPISODE 598 November 7, 2022
 
 > Today friend of the show and esteemed guest host John Bohannon is back with another great interview, this time around joined by Oren Etzioni, former CEO of the Allen Institute for AI, where he is currently an advisor. In our conversation with Oren, we discuss his philosophy as a researcher and how that has manifested in his pivot to institution builder. We also explore his thoughts on the current landscape of NLP, including the emergence of LLMs and the hype being built up around AI systems from folks like Elon Musk. Finally, we explore some of the research coming out of AI2, including Semantic Scholar, an AI-powered research tool analogous to arxiv, and the somewhat controversial Delphi project, a research prototype designed to model people’s moral judgments on a variety of everyday situations.
 
