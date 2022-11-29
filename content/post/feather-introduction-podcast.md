@@ -14,8 +14,7 @@ RSS:
   - title: "Feathr: LinkedIn's High-performance Feature Store // David Stein // Coffee Sessions #120"
   - link: "https://anchor.fm/mlops/episodes/Feathr-LinkedIns-High-performance-Feature-Store--David-Stein--Coffee-Sessions-120-e1n3id2"
 # full title of resource
-link_title:
-  - "Feathr: LinkedIn's High-performance Feature Store // David Stein // Coffee Sessions #120"
+link_title: "Feathr: LinkedIn's High-performance Feature Store // David Stein // Coffee Sessions #120"
 pubDate:
   - "Fri, 02 Sep 2022 10:04:22 GMT"
 authors:

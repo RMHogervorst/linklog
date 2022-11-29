@@ -7,8 +7,7 @@ rating: 3
 identifyer:
   - url: https://github.com/k88hudson/git-flight-rules
 # full title of resource
-link_title:
-  - "Flight rules for Git"
+link_title: "Flight rules for Git"
 authors:
   - Kate Hudson
 difficulties:

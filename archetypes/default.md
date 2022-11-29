@@ -4,9 +4,19 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 rating: 1
-identifyer: []
+identifyer:
+  - isbn/doi
+  - url
+RSS:
+  - url: enclosure url (media file)
+  - length: enclosure length
+  - duration: itunes duration
+  - image: often itunes:image
+  - title: title
+  - link: link
 # full title of resource
-link_title: []
+link_title: ""
+pubDate: []
 authors: []
 difficulties:
   - beginner

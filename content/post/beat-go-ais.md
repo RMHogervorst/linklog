@@ -8,8 +8,7 @@ identifyer:
   - arxiv: https://arxiv.org/abs/2211.00241
   - DOI: https://doi.org/10.48550/arXiv.2211.00241
 # full title of resource
-link_title:
-  - "Adversarial Policies Beat Professional-Level Go AIs"
+link_title: "Adversarial Policies Beat Professional-Level Go AIs"
 authors:
   - Tony Tong Wang
   - Adam Gleave

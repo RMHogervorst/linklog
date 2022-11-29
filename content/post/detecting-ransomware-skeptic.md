@@ -14,8 +14,7 @@ RSS:
   - title: "Detecting Ransomware"
   - link: https://dataskeptic.com/blog/episodes/2021/detecting-ransomware
 # full title of resource
-link_title: 
-  - "Detecting Ransomware"
+link_title: "Detecting Ransomware"
 pubDate:
   - "Mon, 16 Aug 2021 13:00:00 +0000"
 authors:

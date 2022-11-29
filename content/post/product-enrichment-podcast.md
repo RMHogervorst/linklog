@@ -14,8 +14,7 @@ RSS:
   - title: "Product Enrichment and Recommender Systems // Marc Lindner and Amr Mashlah // Coffee Sessions #114"
   - link: "https://anchor.fm/mlops/episodes/Product-Enrichment-and-Recommender-Systems--Marc-Lindner-and-Amr-Mashlah--Coffee-Sessions-114-e1m9n95"
 # full title of resource
-link_title:
-  - "Product Enrichment and Recommender Systems // Marc Lindner and Amr Mashlah // Coffee Sessions #114"
+link_title: "Product Enrichment and Recommender Systems // Marc Lindner and Amr Mashlah // Coffee Sessions #114"
 pubDate:
   - "Wed, 10 Aug 2022 12:18:05 GMT"
 authors:
@@ -29,6 +28,8 @@ linktypes:
     - podcastepisode
 tags:
     - mlops
+    - data science teams
+    - recommenders
 ---
 
 ## Product Enrichment and Recommender Systems // Marc Lindner and Amr Mashlah // Coffee Sessions #114

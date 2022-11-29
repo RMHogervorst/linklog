@@ -14,8 +14,7 @@ RSS:
   - title: "What is Data / ML Like on League? // Ian Schweer // MLOps Coffee Sessions #132"
   - link: https://anchor.fm/mlops/episodes/What-is-Data--ML-Like-on-League---Ian-Schweer--MLOps-Coffee-Sessions-132-e1qpl9u
 # full title of resource
-link_title:
-  - "What is Data / ML Like on League? // Ian Schweer // MLOps Coffee Sessions #132"
+link_title: "What is Data / ML Like on League? // Ian Schweer // MLOps Coffee Sessions #132"
 pubDate:
   - "Tue, 15 Nov 2022 12:43:30 GMT"
 authors:

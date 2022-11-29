@@ -14,8 +14,7 @@ RSS:
   - title: Detecting Money Laundering with Clarence Chio
   - link: https://softwareengineeringdaily.com/2021/09/17/detecting-money-laundering-with-clarence-chio/
 # full title of resource
-link_title:
-  - "Detecting Money Laundering with Clarence Chio"
+link_title: "Detecting Money Laundering with Clarence Chio"
 pubDate: 
   - "Friday, September 17 2021"
 authors:

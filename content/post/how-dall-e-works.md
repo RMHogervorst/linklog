@@ -7,8 +7,7 @@ rating: 5
 identifyer:
   - url: https://aiascendant.substack.com/p/how-dall-e-works-part-1
 # full title of resource
-link_title:
-  - How DALL-E works, plain English, no math, Part 1
+link_title: How DALL-E works, plain English, no math, Part 1
 authors:
   - Jon Evans
 difficulties:

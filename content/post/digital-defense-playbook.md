@@ -7,8 +7,7 @@ rating: 4
 identifyer:
   - url: https://www.odbproject.org/wp-content/uploads/2019/03/ODB_DDP_HighRes_Single.pdf
 # full title of resource
-link_title: 
-  - "Digital Defense Playbook; Community Power Tools for Reclaiming Data"
+link_title: "Digital Defense Playbook; Community Power Tools for Reclaiming Data"
 authors:
   - Our Data Bodies
 difficulties:

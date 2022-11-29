@@ -14,8 +14,7 @@ RSS:
   - title: "The Great MLOps Debate: End-to-End ML Platforms vs Specialized Tools"
   - link: "https://twimlai.com/podcast/twimlai/the-great-mlops-debate-end-to-end-ml-platforms-vs-specialized-tools/"
 # full title of resource
-link_title:
-  - "The Great MLOps Debate: End-to-End ML Platforms vs Specialized Tools"
+link_title: "The Great MLOps Debate: End-to-End ML Platforms vs Specialized Tools"
 pubDate:
   - "Mon, 31 Oct 2022 19:22:33 -0000"
 authors:

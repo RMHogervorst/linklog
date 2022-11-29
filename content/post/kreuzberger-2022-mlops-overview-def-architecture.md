@@ -9,8 +9,7 @@ identifyer:
   - url: https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf
   - DOI: https://doi.org/10.48550/arXiv.2205.02302
 # full title of resource
-link_title:
-  - "Machine Learning Operations (MLOps): Overview, Definition, and Architecture"
+link_title: "Machine Learning Operations (MLOps): Overview, Definition, and Architecture"
 authors:
   - Dominik Kreuzberger
   - Niklas Kühl

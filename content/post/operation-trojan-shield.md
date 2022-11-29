@@ -14,8 +14,7 @@ RSS:
   - title: '“Designed by criminals, for criminals”: Operation Trojan Shield'
   - link: "https://malicious.life/designed-by-criminals-for-criminals-operation-trojan-shield/"
 # full title of resource
-link_title:
-  "Designed by criminals, for criminals"
+link_title: "Designed by criminals, for criminals"
 pubDate: "Mon, 08 Aug 2022 13:56:36 +0000"
 authors:
   - Cybereason

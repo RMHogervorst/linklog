@@ -7,8 +7,7 @@ rating: 3
 identifyer:
   - url: https://ohshitgit.com/
 # full title of resource
-link_title:
-  - "oh shit git"
+link_title: "oh shit git"
 authors:
   - Katie Sylor-Miller
 difficulties:

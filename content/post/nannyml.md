@@ -7,8 +7,7 @@ rating: 3
 identifyer:
   - url: https://github.com/NannyML/nannyml
 # full title of resource
-link_title:
-  - Nanny ML
+link_title: Nanny ML
 authors:
   - NannyML
 difficulties:

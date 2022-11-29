@@ -5,7 +5,6 @@ draft: true
 rating: 4
 identifyer:
     - https://ml-ops.org/content/mlops-stack-canvas
-link_title: []
 difficulties:
   - intermediate
 linktypes:

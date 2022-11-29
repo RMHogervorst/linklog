@@ -7,8 +7,7 @@ rating: 4
 identifyer:
   - url: https://www.profgalloway.com/ai/
 # full title of resource
-link_title:
-  - AI
+link_title: AI
 authors:
   - Scott Galloway
 difficulties:

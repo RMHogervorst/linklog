@@ -8,8 +8,7 @@ identifyer:
   - url: https://deepai.org/publication/adversarial-policies-attacking-deep-reinforcement-learning
   - arxiv: https://arxiv.org/pdf/1905.10615v1.pdf
 # full title of resource
-link_title:
-  - "Adversarial Policies: Attacking Deep Reinforcement Learning"
+link_title: "Adversarial Policies: Attacking Deep Reinforcement Learning"
 authors:
   - Adam Gleave 
   - Michael Dennis 

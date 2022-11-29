@@ -15,8 +15,7 @@ RSS:
   - link: "https://twimlai.com/go/598"
 # full title of resource
 pubDate: "Mon, 07 Nov 2022 20:37:54 -0000"
-link_title:
-  - "The Evolution of the NLP Landscape with Oren Etzioni"
+link_title: "The Evolution of the NLP Landscape with Oren Etzioni"
 authors:
   - Oren Etzioni
   - John Bohannon
