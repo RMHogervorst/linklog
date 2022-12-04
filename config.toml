@@ -24,7 +24,7 @@ title = 'An overview of links'
   post = "/:filename/"
 
 [outputs]
-   home = [ "HTML", "JSON" ]
+   home = [ "HTML", "JSON"]
 
 [[menu.nav]]
     name = "home"
@@ -39,10 +39,18 @@ title = 'An overview of links'
     url = "/post/index.xml"
     weigth = 4
 [[menu.nav]]
-    name = "mastodon"
+    name = "🧷 mastodon"
     url = "https://mastodon.world/@rmhogervorst"
     weigth = 2
 [[menu.nav]]
-    name = "blog"
+    name = "🧷 main blog"
     url = "https://blog.rmhogervorst.nl"
+    weigth = 2
+[[menu.nav]]
+    name = "🧷 notes blog"
+    url = "https://notes.rmhogervorst.nl"
+    weigth = 2
+[[menu.nav]]
+    name = "🧷 knowledge graph"
+    url = "https://kg.rmhogervorst.nl"
     weigth = 2
