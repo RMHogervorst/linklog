@@ -126,3 +126,48 @@ can't get this to work
   </div>
   {{ end }}
   ```
+
+
+  ### Notes about podcastfeed
+  According to [ausha.co](https://www.ausha.co/blog/creating-an-rss-feed-for-your-podcast/) the feed 
+  - needs to be RSS 2.0 RSS
+  - feed needs to contain:
+    - at least one episode (item)
+    - title
+    - description
+    - link to homepage
+  - items need to contain
+    - title
+    - description
+    - pubDate
+    - enclosure url with length
+    - itunes:duration in minutes:seconds
+
+According to [wiredclip](https://wiredclip.com/podcast-rss-feed/) you need at least
+- title
+- description
+- artwork (3000x3000 px to 1400x1400 px at 72 dpi)
+- podcast category
+- language
+- explicit rating
+
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title> </title>
+<description> </description>
+<link> </link>
+<item>
+    <title> </title>
+    <description> </description>
+    <pubDate> </pubDate>
+    <enclosure url="linktomediafile" type="audio/mpeg" length="234511"/>
+    <itunes:duration> </itunes:duration>
+</item>
+</channel>
+</rss>
+```
+
+So I guess I should save some of the metadata from the feed
