@@ -25,7 +25,7 @@ tags:
 ---
 
 ## MLOps isn’t DevOps for ML!
-Is a ... and can be found here(https://www.adventofdata.com/mlops-isnt-devops-for-ml/)
+Is a blogpost and can be found here(https://www.adventofdata.com/mlops-isnt-devops-for-ml/)
 
 > The big talent gap in the MLOps market can be easily and abundantly filled by DevOps practitioners in the conventional software world. After all, isn’t AI/ML just Software 2.0? 
 
