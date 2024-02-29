@@ -3,7 +3,7 @@
 title: "Ai Incident Db"
 date: 2023-01-16T21:51:49+01:00
 draft: false
-rating: 1
+rating: 4
 identifyer:
   - url: https://incidentdatabase.ai/
 # full title of resource
